@@ -19,3 +19,14 @@
   
       pip install pandas
 </ul>
+<h4>2. <a href="https://chromedriver.chromium.org/downloads">chromedriver</a> (For Windows operating system you can download the chromedriver from this repository)</h4>
+<h2>Usage :</h2>
+<ul>
+         <li>Open your Command Prompt or Terminal and change directory to the same folder where you have saved the program.</li>
+         <li>Use Command :</li>
+  
+                      python laptop_details.py              
+</ul>
+<ul>
+  <li>The laptops details will be stored in laptop_details.csv file.</li>
+</ul>
