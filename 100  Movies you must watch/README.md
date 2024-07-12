@@ -1,0 +1,1 @@
+###### Created a Python script that scrapes movie titles from a web page "https://web.archive.org/web/20200518073855/https://www.empireonline.com/movies/features/best-movies-2/" and writes them to a text file named “movies.txt.”
